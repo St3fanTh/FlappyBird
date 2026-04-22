@@ -1,0 +1,8 @@
+/target/
+/pkg/
+*.wasm
+*.js
+*.bg.wasm.d.ts
+*.d.ts
+*.ts
+!index.html

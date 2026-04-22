@@ -1,0 +1,1 @@
+/home/stivi/.paperclip/instances/default/workspaces/feb93c1c-e777-4ac4-aeaf-55e5f1c394cf/target/wasm32-unknown-unknown/release/flappy_bird.wasm: /home/stivi/.paperclip/instances/default/workspaces/feb93c1c-e777-4ac4-aeaf-55e5f1c394cf/src/lib.rs
